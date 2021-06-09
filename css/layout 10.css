@@ -1,0 +1,127 @@
+    .black {
+        width: 1000px;
+        height: 1900px;
+       
+        margin: 0 auto;
+    }
+    
+    .top {
+        width: 800px;
+        height: 200px;
+       background-color:black;
+        margin: 0 auto;
+    }
+    
+    .text {
+        width: 200px;
+        height: 50px;
+        color: green;
+        font-size: 40px;
+        padding-top: 40px;
+        margin: 0 auto;
+    }
+    
+    .text2 {
+        color: green;
+        margin-left: 335px;
+    }
+    
+    .lime {
+        width: 800px;
+        height: 50px;
+		background-color:green;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+    
+    .h1 h1 {
+        float: left;
+        color: white;
+		margin:5px 0px 20px 30px;
+		background-color:green;
+       }
+    
+    img {
+        width: 800px;
+        height: 280px;
+        margin-left: 100px;
+        margin-top: 20px;
+    }
+    
+    .left {
+        width: 470px;
+        height: 1000px;
+         
+		margin:0px 0px 0px 100px;
+        float: left;
+    }
+    
+    .right {
+        width: 420px;
+        height: 600px;
+        
+        float: right;
+    }
+	
+	
+	.text3{
+		      width:250px;
+			  height:70px;
+           
+			  margin-top:20px;
+		
+	         }
+	.text4{
+		    width:450px;
+			height:120px;
+			
+	}
+	
+	.text5{
+		   width:250px;
+		   height:70px;
+		
+	}
+	
+	.text5h1{
+		     color:green;
+			 margin-top:-9px;
+	        }
+	.p{
+		
+		line-height:33px;
+		font-size:20px;
+		
+	   }
+	.text6{
+		   width:250px;
+		   height:70px;
+		   
+		   
+	      }
+	.text6h1{
+		    color:green; 
+	        }
+			
+	.text7{
+		   width:250px;
+		   height:70px;
+	
+	     }
+		 
+		 
+		 
+	.right1{
+            width:350px;
+            height:70px;
+			
+			margin-top:20px;
+	       }
+    .righth1{
+		    color:green;
+	       }
+	hr{
+		height:2px;
+		background-color:black;
+	}
+	
